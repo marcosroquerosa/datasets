@@ -79,6 +79,3 @@ Pandas
 Análise Exploratória
 
 Ideal para cursos técnicos e graduação.
-
-```python
-import pandas as pd
