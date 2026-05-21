@@ -11,3 +11,7 @@ Diabetes prediction system
 Zoo Animal Classification
 * animal_class.csv; animal_zoo.csv
 * https://www.kaggle.com/datasets/uciml/zoo-animal-classification/data
+
+Visitação Turística em Foz do Iguaçu
+* visitacao_foz.csv
+* Dataset gerado aleatoriamente para fins didáticos
