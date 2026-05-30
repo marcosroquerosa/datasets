@@ -1,0 +1,16 @@
+id_cliente,nome,idade,sexo,cidade,data_cadastro,renda
+1,Ana,25,F,Foz do Iguaçu,2024-01-10,3500
+2,Carlos,35,M,Cascavel,15/02/2024,5200
+3,Mariana,,F,Curitiba,2024-03-01,4200
+4,Pedro,42,M,Foz do Iguaçu,01-04-2024,
+5,Juliana,29,F,Curitiba,2024/05/10,3800
+6,Ricardo,35,M,Cascavel,2024-06-15,5200
+7,Mariana,,F,Curitiba,2024-03-01,4200
+8,Lucas,150,M,Londrina,2024-07-01,3000
+9,Fernanda,31,F,,2024-08-20,4700
+10,Roberto,45,M,Foz do Iguaçu,2024-09-05,100000
+11,Paula,27,F,Curitiba,2024-10-01,3600
+12,João,17,M,Cascavel,2024-11-15,1200
+13,Marcos,38,M,Foz do Iguaçu,2024-12-01,5400
+14,Marcos,38,M,Foz do Iguaçu,2024-12-01,5400
+15, Camila ,33,F,Curitiba,2025-01-20,4300
