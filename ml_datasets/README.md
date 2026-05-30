@@ -15,3 +15,12 @@ Zoo Animal Classification
 Visitação Turística em Foz do Iguaçu
 * visitacao_foz.csv
 * Dataset gerado aleatoriamente para fins didáticos
+
+Classificação de Textos com o Dataset 20 Newsgroups 
+* 20_newsgroups_dataset.csv
+* https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html
+
+Notícias publicadas no Brasil
+* noticias_brasil.xlsx
+* https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil
+ 
