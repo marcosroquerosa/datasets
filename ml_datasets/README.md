@@ -25,5 +25,5 @@ Notícias publicadas no Brasil
 * https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil
 
 FIFA - Football World Cup Dataset. Kickoff to Glory: A Century of World Cup Records (1930 to 2022)
-* fifa_wc_data.csv
+* fifa_todas_copas.xlsx
 * https://www.kaggle.com/datasets/iamsouravbanerjee/fifa-football-world-cup-dataset
